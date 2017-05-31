@@ -8,4 +8,4 @@ putting someone in recovery position and secondary diagnosis. It also gives you 
 
 It is not meant to be a handbook from which you would learn first aid procedures but rather an assistant in stressful emergency situations.
 
-App was made by Vesna Magjarević and me with the official support from Croatian Red Cross. It was a part of App Start Contest 2017.
+App was made by Vesna Magjarević and me with the official support from the Croatian Red Cross. It was, at its current version, developed for  the student mobile application competition App Start Contest 2017. We are planning to further expand it in the future.
